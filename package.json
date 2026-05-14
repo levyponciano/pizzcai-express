@@ -1,0 +1,9 @@
+{
+  "name": "pizzcai-express",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estatico em formato link da bio para a Pizzcai Express.",
+  "scripts": {
+    "check": "node --check script.js"
+  }
+}
