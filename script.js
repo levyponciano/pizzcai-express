@@ -5,8 +5,8 @@ const BUSINESS = {
 };
 
 const REVEAL_SELECTOR = [
-  ".menu-preview",
-  ".feature-card",
+  ".location",
+  ".map-card",
   ".final-cta"
 ].join(", ");
 
